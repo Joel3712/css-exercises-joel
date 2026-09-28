@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.odd {
+    background-color: rgb(255, 143, 143)
+}
+#blue{
+    color: rgb(37, 214, 214);
+    font-size: 36px;
+}
+#green{
+    background-color: rgb(164, 255, 164);
+    font-size: 24px;
+    font-weight: bold;
+}
+.third{
+    font-size: 24px;
+}
