@@ -1,5 +1,7 @@
 .odd {
-    background-color: rgb(255, 143, 143)
+    background-color: rgb(255, 143, 143);
+    font-family:Verdana "DejaVu Sans" sans-serif;
+    
 }
 #blue{
     color: rgb(37, 214, 214);
